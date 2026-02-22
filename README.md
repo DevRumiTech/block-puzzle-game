@@ -9,7 +9,7 @@ A fast, responsive block puzzle game playable on mobile and desktop. Works offli
 Features
 
 * Smooth keyboard and touch controls
-* Mobile and desktop friendly
+* Optimized for keyboard controls (works on desktop and tablets with keyboard)
 * Sound effects with mute toggle
 * Hold and next piece preview
 * Scoring, levels, and high score save
