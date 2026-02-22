@@ -32,13 +32,6 @@ Keyboard
 * R : Restart
 * M : Mute
 
-Mobile
-
-* Swipe left/right → move
-* Swipe down → soft drop
-* Swipe up → rotate
-* Tap → hard drop
-
 ---
 
 Play
